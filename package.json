@@ -1,0 +1,13 @@
+{
+	"name": "steam-advanced-access-fetch-players",
+	"description": "",
+	"version": "1.0.0",
+	"license": "MIT",
+	"type": "module",
+	"main": "index.mjs",
+	"private": true,
+	"dependencies": {
+		"inquirer": "^11",
+		"steam-user": "^5"
+	}
+}
